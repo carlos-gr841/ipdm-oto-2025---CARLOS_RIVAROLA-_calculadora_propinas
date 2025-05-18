@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+
+    <!-- Título principal -->
+    <string name="calculate_tip">Calcular propina</string>
+
+    <!-- Etiquetas de los campos -->
+    <string name="bill_amount">Monto de la cuenta</string>
+    <string name="how_was_the_service">¿Cómo estuvo el servicio?</string>
+
+    <!-- Mensaje de error -->
+    <string name="invalid_amount">Ingrese un monto válido</string>
+    <string name="invalid_tip">Ingrese un porcentaje válido</string>
+
+    <!-- Propina resultante -->
+    <string name="tip_amount">Propina: %1$s</string>
+
+    <!-- Switch para redondear -->
+    <string name="round_up_tip">¿Redondear propina?</string>
+</resources>
