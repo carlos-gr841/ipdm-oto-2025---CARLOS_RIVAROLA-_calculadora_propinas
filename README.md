@@ -1,1 +1,2 @@
-# ipdm-oto-2025---CARLOS_RIVAROLA-_calculadora_propinas
+Introducción al estado en Compose
+Calcula una propina personalizada
